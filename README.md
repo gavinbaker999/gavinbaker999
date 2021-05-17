@@ -1,8 +1,8 @@
 ### Click links below to download my software…
 
-Github Repository [https://github.com/gavinbaker999](https://github.com/gavinbaker999)
-Github Repository (HDL Work Bench and UML Work Bench) [https://github.com/gavinbaker999](https://github.com/gavinbaker999/Java-Framework-Apps)
-Github Repository (Web Rings) [https://github.com/gavinbaker999](https://github.com/gavinbaker999/WebApps)
+Public Projects Github Repository [https://github.com/gavinbaker999/Projects](https://github.com/gavinbaker999/Projects)
+HDL Work Bench and UML Work Bench Github Repository [https://github.com/gavinbaker999/Java-Framework-Apps](https://github.com/gavinbaker999/Java-Framework-Apps)
+Web Rings Github Repository [https://github.com/gavinbaker999/WebApps](https://github.com/gavinbaker999/WebApps)
 
 NodeJS Modules [https://npmjs.com/~gavinbaker](https://npmjs.com/~gavinbaker)
 
