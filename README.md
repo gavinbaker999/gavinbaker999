@@ -14,11 +14,7 @@ End House Software GraphQL API Server (NodeJS/Javascript) [https://eehsapi.herok
 
 Job Control System - A Microsoft Access database based job control system allowing me to track my project's tasks, costs, meeting, releases, etc.
 
-Project Tracker [https://ehsphpapps.herokuapp.com/applications/devtrack/devtrack.php](https://ehsphpapps.herokuapp.com/applications/devtrack/devtrack.php)
-
-The Links Database [https://ehsphpapps.herokuapp.com/linksdatabase/webpages/linksidx.php](https://ehsphpapps.herokuapp.com/linksdatabase/webpages/linksidx.php)
-
-A slection of articles written [https://github.com/gavinbaker999/Articles](https://github.com/gavinbaker999/Articles).
+Project Tracker [https://ehsphpapps.herokuapp.com/applications/devtrack/devtrack.php](https://ehsphpapps.herokuapp.com/applications/devtrack/devtrack.php).The Links Database [https://ehsphpapps.herokuapp.com/linksdatabase/webpages/linksidx.php](https://ehsphpapps.herokuapp.com/linksdatabase/webpages/linksidx.php). A slection of articles written [https://github.com/gavinbaker999/Articles](https://github.com/gavinbaker999/Articles).
 
 Details of my non-techinical time in Spain (2003 - 2021),
 
