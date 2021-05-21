@@ -1,12 +1,12 @@
 ### Welcome to End House Software
 
 Public Projects Github Repository [https://github.com/gavinbaker999/Projects](https://github.com/gavinbaker999/Projects)
-HDL Work Bench and UML Work Bench Github Repository [https://github.com/gavinbaker999/Java-Framework-Apps](https://github.com/gavinbaker999/Java-Framework-Apps)
+HDL Work Bench and UML Work Bench Github Repository (Based on my Java framework) [https://github.com/gavinbaker999/Java-Framework-Apps](https://github.com/gavinbaker999/Java-Framework-Apps)
 Web Rings Github Repository [https://github.com/gavinbaker999/WebApps](https://github.com/gavinbaker999/WebApps)
 
 NodeJS Modules [https://npmjs.com/~gavinbaker](https://npmjs.com/~gavinbaker)
 
-Chatter Box (next generation chat system) [https://ehschatterbox.herokuapp.com/](https://ehschatterbox.herokuapp.com/)
+Chatter Box (NodeJS/JavaScript next generation chat system) [https://ehschatterbox.herokuapp.com/](https://ehschatterbox.herokuapp.com/)
 
 End House Software GraphQL API Server [https://eehsapi.herokuapp.com/](https://ehsapi.herokuapp.com/). EHS Control Panel (using the GraphQL server) [https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel] (https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel)
 
