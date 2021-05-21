@@ -8,7 +8,7 @@ NodeJS Modules [https://npmjs.com/~gavinbaker](https://npmjs.com/~gavinbaker)
 
 Chatter Box (NodeJS/JavaScript next generation chat system) [https://ehschatterbox.herokuapp.com/](https://ehschatterbox.herokuapp.com/)
 
-End House Software GraphQL API Server [https://eehsapi.herokuapp.com/](https://ehsapi.herokuapp.com/). EHS Control Panel (using the GraphQL server) [https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel] (https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel)
+End House Software GraphQL API Server (NodeJS/Javascript) [https://eehsapi.herokuapp.com/](https://ehsapi.herokuapp.com/). EHS Control Panel (Blazor Server App/C#) using the GraphQL server) [https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel] (https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel)
 
 Project Tracker [https://ehsphpapps.herokuapp.com/applications/devtrack/devtrack.php](https://ehsphpapps.herokuapp.com/applications/devtrack/devtrack.php)
 
