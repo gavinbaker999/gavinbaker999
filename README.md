@@ -47,11 +47,9 @@ Duties include,
 
 Heritage Homes – Spain
 Duties include,
-   General handyman
+   General handyman including small building jobs
    Painting and decorating
    Ground work within the hotel and cabin complex
-
-References are available for all the above.
 
 Mobile: 07793 563 978
 endhousesoftware999@gmail.com
