@@ -1,6 +1,6 @@
 ### Welcome to End House Software
 
-A portfolio of websites I have designed including a dotNET window forms application to edit data files used for the Aladdin's website can be found at [http://endhousesoftware.byethost11.com/website/promosheets/promosheet.htm](http://endhousesoftware.byethost11.com/website/promosheets/promosheet.htm).
+A portfolio of websites I have designed including a dotNET window forms application to edit data files used for the Aladdin's website can be found at [http://endhousesoftware.byethost11.com/website/promosheets/promosheet.htm](http://endhousesoftware.byethost11.com/website/promosheets/promosheet.htm). Learning React to improve my UIs.
 
 Public Projects Github Repository [https://github.com/gavinbaker999/Projects](https://github.com/gavinbaker999/Projects)
 HDL Work Bench and UML Work Bench Github Repository (Based on my Java framework) [https://github.com/gavinbaker999/Java-Framework-Apps](https://github.com/gavinbaker999/Java-Framework-Apps)
