@@ -24,6 +24,5 @@ I have also been using NodeJS (using the express framework) to develop projects 
 
 I enjoy working in small teams and with good organization skills can work well under pressure to meet project deadlines. I can take the initiative and responsibility for  parts of the project, enjoying learning new skills which can be latter shared with other team members maybe even taking on a mentoring role. Over the last few years, with the increasing complexity of software deployment, I have also been involved in  the role of DevOps to cover both the software development and the tool chains need to deploy the software including use Github for source control and Github Actions for CI/CD pipelines.
 
-Mobile: 07793 563 978
 endhousesoftware999@gmail.com
 www.endhousesoftware.co.uk
