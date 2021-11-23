@@ -10,7 +10,7 @@ NodeJS Modules [https://npmjs.com/~gavinbaker](https://npmjs.com/~gavinbaker) - 
 
 Chatter Box (NodeJS/JavaScript next generation chat system) [https://ehschatter-box.herokuapp.com/](https://ehschatterbox.herokuapp.com/)
 
-End House Software GraphQL API Server (NodeJS/Javascript) [https://eehsapi.herokuapp.com/](https://ehsapi.herokuapp.com/). EHS Control Panel (Blazor Server App/C# using the GraphQL server) [https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel] (https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel)
+End House Software GraphQL API Server (NodeJS/Javascript) [https://eehsapi.herokuapp.com/](https://ehsapi.herokuapp.com/).<br>EHS Control Panel (Blazor Server App/C# using the GraphQL server) [https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel](https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel)
 
 Job Control System - A Microsoft Access database based job control system allowing me to track my project's tasks, costs, meeting, releases, etc.
 
