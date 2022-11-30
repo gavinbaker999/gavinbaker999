@@ -1,6 +1,6 @@
 ### Welcome to End House Software
 
-A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://endhousesoftware.byethost11.com/website/promosheets/promosheet.htm). Learning React/Redux to improve user interface functionality.
+A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://endhousesoftware.byethost11.com/website/promosheets/promosheet.htm).
 
 Public Projects Github Repository [https://github.com/gavinbaker999/Projects](https://github.com/gavinbaker999/Projects)
 HDL Work Bench and UML Work Bench Github Repository (Based on my Java framework) [https://github.com/gavinbaker999/Java-Framework-Apps](https://github.com/gavinbaker999/Java-Framework-Apps)
@@ -17,7 +17,7 @@ I have been using .NET/C# (Windows Forms/MVC/Blazor SDK) to develop applications
 
 End House Software GraphQL API Server (NodeJS/Javascript) [https://eehsapi.herokuapp.com/](https://ehsapi.herokuapp.com/)<br>EHS Control Panel (Blazor Server App/C# using the GraphQL server) [https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel](https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel)
 
-Job Control System - A Microsoft Access database based job control system allowing me to track my project's tasks, costs, meeting, releases, etc.
+Job Control System - A Microsoft Access database based job control system allowing me to track my project's tasks, costs, meetings, releases, etc.
 
 Search Tracker [https://github.com/gavinbaker999/Projects/tree/main/Visual%20C%23/SearchTracker](https://github.com/gavinbaker999/Projects/tree/main/Visual%20C%23/SearchTracker)<br>
 Project Tracker [https://ehsphpapps.herokuapp.com/applications/devtrack/devtrack.php](https://ehsphpapps.herokuapp.com/applications/devtrack/devtrack.php)<br>
