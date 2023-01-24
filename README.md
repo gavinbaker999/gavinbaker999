@@ -1,6 +1,6 @@
 ### Welcome to End House Software
 
-A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://endhousesoftware.byethost11.com/website/promosheets/promosheet.htm).
+A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://www.endhousesoftware.com/promosheets/promosheet.htm).
 
 Public Projects Github Repository [https://github.com/gavinbaker999/Projects](https://github.com/gavinbaker999/Projects)
 HDL Work Bench and UML Work Bench Github Repository (Based on my Java framework) [https://github.com/gavinbaker999/Java-Framework-Apps](https://github.com/gavinbaker999/Java-Framework-Apps)
@@ -13,9 +13,9 @@ NodeJS Modules [https://npmjs.com/~gavinbaker](https://npmjs.com/~gavinbaker) - 
 
 Python development to support my use of a Raspbery PI 400 which runs as a media, backup and SSH shell server on my home network. I am also using Raspbery PI Zero and Pico models to develop automation, robotic and data collection projects.
 
-I have been using .NET/C# (Windows Forms/MVC/Blazor SDK) to develop applications including an application to update the data files for a website, a GraphQL client – ‘EHS Control Panel’ - which communicates with my NodeJS GraphQL API and SigmalR servers to give me system wide status information and a web bot. I use Microsoft Azure for storage blobs, queues, tables, function apps, logic apps, Cosmos DB, SQL DB, web bots, cognitive services (LUIS, QnAMaker and language translation), SignalR and application insights for my applications.
+I have been using .NET/C# (Windows Forms/MVC/Blazor SDK) to develop applications including an application to update the data files for a website, EHS Control Panel which communicates with my NodeJS GraphQL API and SigmalR servers to give me system wide status information and a web bot to provide a FAQ and help system for my applications. I use Microsoft Azure for storage blobs, queues, tables, function apps, logic apps, Cosmos DB, SQL DB, web bots, cognitive services (LUIS, QnAMaker and language translation), SignalR and application insights for my applications.
 
-End House Software GraphQL API server (NodeJS/Javascript) [https://eehsapi.herokuapp.com/](https://ehsapi.herokuapp.com/) and SignalR server.<br>EHS Control Panel (Blazor Server App/C# using the GraphQL and SignalR servers) [https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel](https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel) that enables me to check that all application nservices are up and running. Also the ability to use custom GraphQl queries (aka EHS API) to obtain system status information.
+End House Software GraphQL API server (NodeJS/Javascript) [https://eehsapi.herokuapp.com/](https://ehsapi.herokuapp.com/) and SignalR server.<br>EHS Control Panel (Blazor Server App/C# using the GraphQL and SignalR servers) [https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel](https://github.com/gavinbaker999/Projects/tree/main/dotNET_Projects/EHSControlPanel) that enables me to check that all application services are up and running. Also the ability to use custom GraphQL queries (aka EHS API) to obtain system status information.
 
 Job Control System - A Microsoft Access database based job control system allowing me to track my project's tasks, costs, meetings, releases, etc.
 
