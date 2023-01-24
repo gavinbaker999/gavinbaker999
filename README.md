@@ -11,7 +11,7 @@ I have also been using NodeJS (using the express framework) to develop projects 
 Chatter Box (NodeJS/JavaScript next generation chat system) [https://ehschatter-box.herokuapp.com/](https://ehschatterbox.herokuapp.com/)
 NodeJS Modules [https://npmjs.com/~gavinbaker](https://npmjs.com/~gavinbaker) - A general support module and a message queue processing module.
 
-Python development to support my use of a Raspbery PI 400 which runs as a media, backup and SSH shell server on my home network. I am also using Raspbery PI Zero and Pico models to develop automation, robotic and data collection projects. These include a robot that can sense its enviroment and a weather station.
+Python development to support my use of a Raspbery PI 400 which runs as a media, backup and SSH shell server on my home network. I am also using Raspbery PI Zero and Pico models to develop automation, robotic and data collection projects. These include a robot that can sense its enviroment and a weather data collection station. Other services used include PushOver and Drop Box.
 
 I have been using .NET/C# (Windows Forms/MVC/Blazor SDK) to develop applications including an application to update the data files for a website, EHS Control Panel which communicates with my NodeJS GraphQL API and SignalR servers to give me system wide status information and a web bot to provide a FAQ and help system for my applications. I use Microsoft Azure for storage blobs, queues, tables, function apps, logic apps, Cosmos DB, SQL DB, web bots, cognitive services (LUIS, QnAMaker and language translation), SignalR and application insights for my applications.
 
