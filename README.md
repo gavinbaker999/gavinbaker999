@@ -1,6 +1,7 @@
 ### Welcome to End House Software
 
 A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://www.endhousesoftware.com/promosheets/promosheet.htm).
+My project blog can be found at [https://www.endhousesoftware.com/projectblog/projectblog.htm](https://www.endhousesoftware.com/projectblog/projectblog.htm).
 
 Public Projects Github Repository [https://github.com/gavinbaker999/Projects](https://github.com/gavinbaker999/Projects)
 HDL Work Bench and UML Work Bench Github Repository (Based on my Java framework) [https://github.com/gavinbaker999/Java-Framework-Apps](https://github.com/gavinbaker999/Java-Framework-Apps)
