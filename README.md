@@ -1,6 +1,6 @@
 ### Welcome to End House Software
 
-A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://www.endhousesoftware.com/promosheets/promosheet.htm), project blog at [https://www.endhousesoftware.com/projectblog/projectblog.htm](https://www.endhousesoftware.com/projectblog/projectblog.htm) and Github Repository at [https://github.com/gavinbaker999/Projects](https://github.com/gavinbaker999/Projects).
+A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://www.endhousesoftware.com/promosheets/promosheet.htm), project blog at [https://www.endhousesoftware.com/projectblog/projectblog.htm](https://www.endhousesoftware.com/projectblog/projectblog.htm) and Github Repository at [https://github.com/gavinbaker999](https://github.com/gavinbaker999).
  
 Using the Raspberry PI Zero and Pico models to develop automation, robotic and data collection projects. These include a robot that can sense its environment and a weather data collection station. Other services used include PushOver/Magic Bell for notifications. use of a Raspbery PI 400 which runs as a media, backup and SSH shell server on my home network.
 
