@@ -2,7 +2,7 @@
 
 A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://www.endhousesoftware.com/promosheets/promosheet.htm), project blog at [https://www.endhousesoftware.com/projectblog/projectblog.htm](https://www.endhousesoftware.com/projectblog/projectblog.htm) and Github Repository at [https://github.com/gavinbaker999](https://github.com/gavinbaker999).
  
-Using the Raspberry PI Zero and Pico models to develop automation, robotic and data collection projects. These include a robot that can sense its environment and a weather data collection station. Other services used include PushOver/Magic Bell for notifications. use of a Raspbery PI 400 which runs as a media, backup and SSH shell server on my home network.
+Using the Raspberry PI Zero and Pico models to develop automation, robotic and data collection projects. These include a robot that can sense its environment and a weather data collection station. Other services used include PushOver/Magic Bell for notifications. Use a Raspbery PI 400 which runs as a media server (Plex), backup and SSH shell server on my home network.
 
 Use of .NET/C# (Windows Forms/MVC/Blazor SDK) to develop applications including updating website config files, EHS Admin Control Panel which communicates with my NodeJS GraphQL API and SignalR servers to give me system wide status information and a web bot to provide a FAQ and help system for my applications. I use Microsoft Azure for storage blobs, queues, tables, function apps, logic apps, Cosmos DB, SQL DB, web bots, cognitive services (LUIS, QnAMaker and language translation), SignalR and application insights for my applications. Started to explore the use of .NET Maui to develop cross platform applications.
 
