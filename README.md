@@ -2,7 +2,7 @@
 
 A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://www.endhousesoftware.com/promosheets/promosheet.htm), project blog at [https://www.endhousesoftware.com/projectblog/projectblog.htm](https://www.endhousesoftware.com/projectblog/projectblog.htm) and Github Repository at [https://github.com/gavinbaker999](https://github.com/gavinbaker999).
  
-A Raspbery PI 400 which runs mainly as a media server (Plex), print server (CUPS), MQTT message broker and backup server (Samba) on my home lab network, along with two Raspberry PI Zeros that run the Weather Station and my robotic projects. I also use Raspberry Pi Picos in various projects.
+A Raspbery PI 400 runs mainly as a media server (Plex), print server (CUPS), MQTT message broker and backup server (Samba) on my home network, along with Raspberry PI Zeros that run the Weather Station, my robotic projects and a spare linux box. I also use Raspberry Pi Picos in various data collection projects. I am using a Raspberry Pi 5 with OpenCV to explore image detection and AI.
 
 Use of .NET/C# (Windows Forms/MVC/Blazor SDK) to develop applications including updating website config files, EHS Admin Control Panel which communicates with my NodeJS GraphQL API and SignalR servers to give me system wide status information and a web bot to provide a FAQ and help system for my applications. I use Microsoft Azure for storage blobs, queues, tables, function apps, logic apps, Cosmos DB, SQL DB, web bots, cognitive services (LUIS, QnAMaker and language translation), SignalR and application insights for my applications. Started to explore the use of .NET Maui to develop cross platform applications.
 
