@@ -8,9 +8,7 @@ Use of .NET (C#) to develop applications including updating website config files
 
 I have also been using NodeJS (using the express framework) to develop projects including a GraphQL API server and a graphical chat system – ‘Chatter Box’ – at [https://ehschatter-box.herokuapp.com/](https://ehschatterbox.herokuapp.com/) that includes features for automatic chat text language translation into 5 languages and interaction with MongoDB and Microsoft Azure storage blobs data stores. I also written a couple of NodeJS modules - hosted on NPM – a message queue store and general-purpose utility modules.
 
-I also have an active intrest in electronics, projects include smart home, weather station and robotics projects.
-
-Over the last few years, to deal with the increasing complexity of software deployment, I have developed a ‘Job Control System’ that runs on Microsoft Access. Also been involved in the role of DevOps to cover the tool chains need to build and deploy my software (including use of Github for source control and Github Actions for CI/CD pipelines) and backup\hardware\software recovery plans and the use of Perl to code data translation and website scripts.
+An active intrest in electronics, has lead to building projects in the areas of smart home, weather station and robotics. Over the last few years, to deal with the increasing complexity of software development and deployment, I have developed a ‘Job Control System’ that runs on Microsoft Access and also use Github for source control and Github Actions for CI/CD pipelines.
 
 I enjoy working in small teams and with good time keeping, communication and organization skills can work well under pressure to meet project deadlines. I can take the initiative and responsibility for parts of the project, enjoying learning new skills which can be latter shared with other team members maybe even taking on a mentoring role. 
 
