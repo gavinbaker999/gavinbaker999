@@ -1,6 +1,6 @@
 ### Welcome to End House Software
 
-A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://www.endhousesoftware.com/promosheets/promosheet.htm), project blog at [https://www.endhousesoftware.com/projectblog/projectblog.htm](https://www.endhousesoftware.com/projectblog/projectblog.htm) and Github Repository at [https://github.com/gavinbaker999](https://github.com/gavinbaker999).
+A portfolio of my work can be found at [http://www.endhousesoftware.com/promosheets/promosheet.htm](http://www.endhousesoftware.com/promosheets/projects.htm), project blog at [https://www.endhousesoftware.com/projectblog/projectblog.htm](https://www.endhousesoftware.com/projectblog/projectblog.htm) and Github Repository at [https://github.com/gavinbaker999](https://github.com/gavinbaker999).
  
 A Raspberry PI 5 runs as my main Linux box, which includes a media server (Jellyfin), print server (CUPS), MQTT message broker, NAS backup server (Samba), RealVNC, KiCad and a software development system. One of the software projects is an object detection system using the OpenCV, Tensor Flow and Panda libraries. My home network, also has Raspberry PI Zeros that run the Weather Station and robotic projects and serval Raspberry Pi Picos used in various data collection projects. A Pi400 is used as a retro gaming console running the Retro Game OS.
 
