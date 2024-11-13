@@ -4,7 +4,7 @@ A portfolio of my work can be found at [http://www.endhousesoftware.com/projects
  
 My home lab network consists of a Raspberry PI 5 running as my main Linux box, which includes media server (Jellyfin), print server (CUPS), MQTT message broker, NAS backup server (Samba), RealVNC, Libre Office, KiCad and a software development system. The home lab network, also contains ESP32 breakout development box, Raspberry PI Zeros that run the Weather Station and robotic projects and serval Raspberry Pi Picos used in various data collection projects. A Pi400 is used as a retro gaming console running the Retro Game OS.
 
-I have gone doen the rabbit hole of using Home Assistant to create a smart home.
+I have gone down the rabbit hole of using Home Assistant to create a smart home.
 
 I also use Windows and .NET (C#) to develop applications including updating website config files, EHS Admin Control Panel (Blazor) which communicates with my NodeJS GraphQL API and SignalR servers to give me system wide status information, EHS Android Test App (MAUI/Android) to provide a test rig to expirment with Android programming and an Azure Web Bot - GavBot the Third - to provide a FAQ and help system for my applications. I use Microsoft Azure for app services, storage blobs, queues, tables, function apps, logic apps, Cosmos DB, SQL DB, web bots, cognitive services (LUIS, QnAMaker and language translation), SignalR and application insights for my applications.  also involved in software projects for an object detection system using the OpenCV, Tensor Flow and Panda libraries. An active intrest in electronics, has lead to building projects in the areas of smart homes, weather station, robotics and data collection mostly using the ESP32 and Raspberry Pi families with Python.
 
