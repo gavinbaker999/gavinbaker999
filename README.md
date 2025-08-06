@@ -1,5 +1,7 @@
 ### Welcome to End House Software
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinbaker999)](https://github.com/anuraghazra/github-readme-stats)
+
 A portfolio of my work can be found at [http://www.endhousesoftware.com/projects/projects.htm](http://www.endhousesoftware.com/projects/projects.htm), project blog at [https://www.endhousesoftware.com/projectblog/projectblog.htm](https://www.endhousesoftware.com/projectblog/projectblog.htm) and Github Repository at [https://github.com/gavinbaker999](https://github.com/gavinbaker999).
  
 My home lab network consists of two Raspberry PI 5 servers. One Raspberry PI 5 server has an attached 2TB USB drive that can be accessed via Samba and contains a software development system for my NodeJs applications - primarily Chatter Box and the dymanic PHP part of my website - , Ansible playbooks and the OpenShot video processing software. The other - with an attached camera module - includes as well as other bits, the media server (Jellyfin), testbed for my TensorFlow/CV2 image regcogntion projects, KiCad and Arduino. Both Pi 5 servers run common software, which includes, SyncThing, CUPS and Libre Office. 
