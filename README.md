@@ -1,8 +1,5 @@
 ### Welcome to End House Software
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinbaker999)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinbaker999)](https://github.com/anuraghazra/github-readme-stats)
-
 A portfolio of my work can be found at [http://www.endhousesoftware.com/projects/projects.htm](http://www.endhousesoftware.com/projects/projects.htm), project blog at [https://www.endhousesoftware.com/projectblog/projectblog.htm](https://www.endhousesoftware.com/projectblog/projectblog.htm) and Github Repository at [https://github.com/gavinbaker999](https://github.com/gavinbaker999).
  
 My home lab network consists of two Raspberry PI 5 servers. One Raspberry PI 5 server has an attached 2TB USB drive that can be accessed via Samba and contains a software development system for my NodeJs applications - primarily Chatter Box and the dymanic PHP part of my website - , Ansible playbooks and the OpenShot video processing software. The other - with an attached camera module - includes as well as other bits, the media server (Jellyfin), testbed for my TensorFlow/CV2 image regcogntion projects, KiCad and Arduino. Both Pi 5 servers run common software, which includes, SyncThing, CUPS and Libre Office. 
@@ -24,3 +21,7 @@ Over the last few years, to deal with the increasing complexity of software deve
 I enjoy working in small teams and with good time keeping, communication and organization skills can work well under pressure to meet project deadlines. I can take the initiative and responsibility for parts of the project, enjoying learning new skills which can be latter shared with other team members maybe even taking on a mentoring role. 
 
 Email me at endhousesoftware999@gmail.com or visit my website at www.endhousesoftware.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinbaker999)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinbaker999)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gavinbaker999)](https://github.com/anuraghazra/github-readme-stats)
