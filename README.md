@@ -22,6 +22,6 @@ I enjoy working in small teams and with good time keeping, communication and org
 
 Email me at endhousesoftware999@gmail.com or visit my website at www.endhousesoftware.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinbaker999)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinbaker999&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinbaker999)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gavinbaker)](https://github.com/anuraghazra/github-readme-stats)
