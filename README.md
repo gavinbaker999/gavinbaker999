@@ -1,6 +1,7 @@
 ### Welcome to End House Software
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinbaker999)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinbaker999)](https://github.com/anuraghazra/github-readme-stats)
 
 A portfolio of my work can be found at [http://www.endhousesoftware.com/projects/projects.htm](http://www.endhousesoftware.com/projects/projects.htm), project blog at [https://www.endhousesoftware.com/projectblog/projectblog.htm](https://www.endhousesoftware.com/projectblog/projectblog.htm) and Github Repository at [https://github.com/gavinbaker999](https://github.com/gavinbaker999).
  
