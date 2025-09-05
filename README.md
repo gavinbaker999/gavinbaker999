@@ -8,6 +8,8 @@ My home lab is awaiting the arrival of the ZimaBoard 2 kick starter server to wh
 
 The home lab network, also contains a Raspberry Pi 4 with the Sense HAT (on which I intend to install Android version 16), an ESP32 breakout development box, a Raspberry PI Zero/ESP32s that run the Weather Station. A Pi400 is used as a retro gaming console running the Retro Game OS and I also have a Xbox kicking around somewhere. 
 
+I use the Obsidian application for all my note taking and Todoist to keep track of all my ToDo lists.
+
 I have installed a 'Home Assistant Green' as my smart home hub. This includes, amongst other things, a home dashboard, the Glances add on for system information, the Visual Studio add on so I can edit configuration files, Google calender add on, SSH Terminal add on, Uptime Kuma and Glances add ons for network monitoring, Music Assistant, Mosquitto broker add on which Frigate uses and the Frigate add-on for anaylsing the images from my security cameras. An old Android tablet has been repurposed as a wall tablet using the Fully Koisk' application. I am also developing ESP32 addon modules that use the ESP Home HA intergration including using BLE beacons in each room so that HA can use my room location in automations.
 
 An active intrest in IoT and electronics, has lead to building projects in the areas of smart homes, weather station, robotics and data collection mostly using the ESP32 and Raspberry Pi families with Python, Rust and Go. I am now tending to favour the ESP32 micro-controller and the ESP Home integration in Home Assistant over the Raspberry Pico family.
